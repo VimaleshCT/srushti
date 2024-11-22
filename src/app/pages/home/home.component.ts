@@ -15,10 +15,10 @@ export class HomeComponent {
     { icons: '6.png', title: 'Experienced Team & Continuous Development', content: 'A highly trained team staying ahead with the latest fertility treatments and diagnostics.' },
   ];
   specialization: any[] = [
-    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Assisted Reproductive Techniques', content: 'Laparoscopy | Hysteroscopy | Myomectomy | Conservative Surgery' },
-    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Reproductive Surgeries', content: 'Egg Freezing | Embryo Freezing | Sperm Freezing' },
-    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Genetics & Preservation', content: 'IVF | Genetic Screening | Fertility Preservation' },
-    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Maternity & Childcare', content: 'Stress Relief | Hormonal Balance | Fertility Enhancement' },
-    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Aesthetics', content: 'IVF Failure Solutions | PCOS Management | Azoospermia Treatment' },
+    { images: 'assets/images/specialization/1.png', title: 'Assisted Reproductive Techniques', content: 'Laparoscopy | Hysteroscopy | Myomectomy | Conservative Surgery' },
+    { images: 'assets/images/specialization/2.png', title: 'Reproductive Surgeries', content: 'Egg Freezing | Embryo Freezing | Sperm Freezing' },
+    { images: 'assets/images/specialization/3.png', title: 'Genetics & Preservation', content: 'IVF | Genetic Screening | Fertility Preservation' },
+    { images: 'assets/images/specialization/4.png', title: 'Maternity & Childcare', content: 'Stress Relief | Hormonal Balance | Fertility Enhancement' },
+    { images: 'assets/images/specialization/5.png', title: 'Aesthetics', content: 'IVF Failure Solutions | PCOS Management | Azoospermia Treatment' },
   ];
 }

@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './pages/home/home.component';
 import { PcosComponent } from './pages/pcos/pcos.component';
+import { CtaComponent } from './widget/cta/cta.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { PcosComponent } from './pages/pcos/pcos.component';
     HeaderComponent,
     FooterComponent,
     HomeComponent,
-    PcosComponent
+    PcosComponent,
+    CtaComponent
   ],
   imports: [
     BrowserModule,

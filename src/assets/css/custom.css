@@ -32,4 +32,8 @@ footer .footer-logo img {
     .navbar .navbar-nav .dropdown.dropdown-with-icon-style02 .dropdown-menu {
         padding: 10px 15px !important;
     }
+
+    .text-sm-center {
+        text-align: center !important;
+    }
 }
